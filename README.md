@@ -1,0 +1,2 @@
+# ELEC402_PROJ2_FOOD_DISPENSER
+ELEC 402: Synthesized Verilog Project
